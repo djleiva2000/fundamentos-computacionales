@@ -1,2 +1,2 @@
-# fundamentos-computacionales
+# FundComputaciones-OF20/wiki
 tareas
